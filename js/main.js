@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('  HAPPY VALENTINE DAY MY LOVE ').split('')
+    const titles = ('FELIZ DÍA DE SAN VALENTÍN MI AMOR ').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
